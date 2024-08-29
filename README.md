@@ -15,3 +15,4 @@ in Classical Beam Propagation.py , line 66 <br>
 and step, step size at lines 55,56 <br>
 to see their influence over the beam.
 
+![WhatsApp Image 2024-08-29 at 21 24 17](https://github.com/user-attachments/assets/a726370f-f4e9-4a25-a23d-bd23a8c44558)
