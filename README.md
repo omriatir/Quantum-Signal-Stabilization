@@ -28,14 +28,17 @@ This repository contains Jupyter Notebook scripts for analyzing the influence of
 
 ## Files
 
-- **`Final Proj. - last calc..ipynb`**: Main Jupyter Notebook containing all scripts, including:
+- **`Final Proj. - last calc..ipynb`**: Main Jupyter Notebook containing all final scripts, including:
   - Noise approximation
   - Data after noise subtraction
   - Data visualization and graphing
   - Data fitting using Malus' Law
-  
-## Dependencies
 
+- **`Final proj - First Exp & validation of Last Exp`**: First scripts for the outdoor experiments and the validation scripts for the Last Experiment (Making sure we use single photons). The main Jupyter Notebook contain an ordered and improve version of this scripts.  
+
+- **`Final proj - mes (before order)`**: a draft version of **`Final proj - First Exp & validation of Last Exp`**.
+
+## Dependencies  
 To run these notebooks, ensure you have the following libraries installed:
 
 - `numpy`: For numerical computations.
